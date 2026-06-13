@@ -17,10 +17,7 @@ DriftWatch is a Streamlit app for detecting and visualizing data drift between t
 
 ## Setup
 
-1. Open a terminal in the project folder:
-   ```powershell
-   cd "c:\Users\Swara Mishra\OneDrive\Desktop\assignments\DriftWatch"
-   ```
+1. Open a terminal in the project folder.
 
 2. Create and activate the virtual environment:
    ```powershell
@@ -49,6 +46,10 @@ Then open the local URL shown in the terminal, typically `http://localhost:8501`
   ```
 
 - The sample dataset is included in `dataset.csv`.
+
+## Deployment
+
+Live app: https://sukrptxcv8pobpcof5dp2j.streamlit.app/
 
 ## GitHub
 

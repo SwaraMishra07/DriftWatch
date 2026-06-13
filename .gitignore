@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit and local settings
+.streamlit/
+
+# IDE files
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db

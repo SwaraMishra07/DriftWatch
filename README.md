@@ -2,6 +2,10 @@
 
 DriftWatch is a Streamlit app for detecting and visualizing data drift between training and new datasets.
 
+## What is Data Drift?
+
+Data drift occurs when the statistical properties of a dataset change over time, causing the model that was trained on past data to become less accurate on new data. Drift can happen because of changes in user behavior, operating conditions, data collection processes, or external factors. DriftWatch detects these shifts by comparing training data against new data and measuring changes in feature distributions.
+
 ## Features
 
 - Upload a CSV dataset
